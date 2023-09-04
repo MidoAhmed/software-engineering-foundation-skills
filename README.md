@@ -18,7 +18,7 @@ These skills form the backbone of a software engineer's toolkit and are often co
 
 ### Problem-Solving
 
-Problem-solving is a skill that can be developed and improved progressively over time. Here's a step-by-step guide on how to work progressively on enhancing your problem-solving abilities.
+Problem-solving is a skill that can be developed and improved progressively over time.
 
 > **Practice Regularly** : there are several online platforms and resources where you can enhance your problem-solving skills and practice coding challenges. Here are some popular options:
 

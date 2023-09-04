@@ -1,7 +1,9 @@
-#  the backbone of a software engineer toolkit
+# the backbone of a software engineer toolkit
+
 This repository is dedicated to curating and sharing knowledge about the core skills that are essential for success in the field of software engineering. Whether you're a beginner looking to build a strong foundation or an experienced developer aiming to reinforce your fundamentals, you'll find a wealth of information, resources
 
 ## Introduction
+
 These general skills lay a strong foundation for success regardless of the specific technology or programming languages being used. Here's a brief explanation of each of these skills:
 
 1. **[Problem-Solving](#problem-solving)**: Problem-solving is at the core of software engineering. It involves the ability to analyze complex issues, break them down into smaller, manageable parts, and develop effective solutions. Strong problem-solving skills enable software engineers to tackle a wide range of challenges they encounter during development.
@@ -15,15 +17,20 @@ These general skills lay a strong foundation for success regardless of the speci
 These skills form the backbone of a software engineer's toolkit and are often considered more important than specific technology expertise. They empower engineers to adapt to new technologies and languages as the industry evolves while consistently delivering high-quality, well-structured software solutions.
 
 ### Problem-Solving
+
 Problem-solving is a skill that can be developed and improved progressively over time. Here's a step-by-step guide on how to work progressively on enhancing your problem-solving abilities.
+
 > **Practice Regularly** : there are several online platforms and resources where you can enhance your problem-solving skills and practice coding challenges. Here are some popular options:
 
 - [LeetCode](https://leetcode.com/)
 - [HackerRank](https://www.hackerrank.com/)
 - [CodeSignal](https://codesignal.com/)
 - [Codewars](https://www.codewars.com)
+- [Edabit](https://edabit.com/challenges)
+- [Codingame](https://www.codingame.com/start/)
 
 ### Data Structures and Algorithms
+
 Certainly! Data Structures and Algorithms are foundational concepts in computer science and software engineering. They are essential components of problem-solving and play a critical role in the design and performance of software applications. Here's a more in-depth look at Data Structures and Algorithms:
 
 **Data Structures:**
@@ -79,6 +86,7 @@ Algorithms are step-by-step procedures or sets of instructions for performing a 
 In summary, data structures and algorithms are essential components of a software engineer's toolkit. They enable efficient problem-solving, code optimization, and the creation of scalable and high-performance software applications. Mastering these concepts is a key step in becoming a proficient software engineer.
 
 ### Software Design Patterns and Principles
+
 Certainly! Software Design Patterns and Principles are fundamental concepts in software engineering that guide the architectural and structural aspects of software development. They provide reusable solutions to common design problems and help create software that is maintainable, scalable, and adaptable. Let's delve deeper into these concepts:
 
 **Software Design Patterns:**
@@ -93,17 +101,16 @@ Software design principles are guidelines and best practices that help in making
 
 1. **SOLID**: represents a set of five design principles in object-oriented programming (OOP) and software design.
 
-    1. **Single Responsibility Principle (SRP)**:
-    This principle states that a class should have only one reason to change. In other words, a class should have only one responsibility or function. When a class has multiple responsibilities, it becomes more challenging to maintain and modify, as changes to one responsibility can inadvertently affect others.
+   1. **Single Responsibility Principle (SRP)**:
+      This principle states that a class should have only one reason to change. In other words, a class should have only one responsibility or function. When a class has multiple responsibilities, it becomes more challenging to maintain and modify, as changes to one responsibility can inadvertently affect others.
 
-    2. **Open-Closed Principle (OCP)**: Software entities (classes, modules, functions) should be open for extension but closed for modification. You should be able to add new functionality without altering existing code.
+   2. **Open-Closed Principle (OCP)**: Software entities (classes, modules, functions) should be open for extension but closed for modification. You should be able to add new functionality without altering existing code.
 
-    3. **Liskov Substitution Principle (LSP)**: Subtypes must be substitutable for their base types without altering the correctness of the program. In essence, derived classes should not break the behavior expected of the base class.
+   3. **Liskov Substitution Principle (LSP)**: Subtypes must be substitutable for their base types without altering the correctness of the program. In essence, derived classes should not break the behavior expected of the base class.
 
-    4. **Interface Segregation Principle (ISP)**: Clients should not be forced to depend on interfaces they do not use. This principle promotes smaller, more focused interfaces.
+   4. **Interface Segregation Principle (ISP)**: Clients should not be forced to depend on interfaces they do not use. This principle promotes smaller, more focused interfaces.
 
-    5. **Dependency Inversion Principle (DIP)**: High-level modules should not depend on low-level modules; both should depend on abstractions. Abstractions should not depend on details; details should depend on abstractions.
-
+   5. **Dependency Inversion Principle (DIP)**: High-level modules should not depend on low-level modules; both should depend on abstractions. Abstractions should not depend on details; details should depend on abstractions.
 
 2. **Don't Repeat Yourself (DRY)**: Avoid duplicating code by modularizing and reusing common functionality.
 
@@ -116,10 +123,11 @@ Software design principles are guidelines and best practices that help in making
 In summary, software design patterns and principles are critical for designing robust, maintainable, and scalable software systems. They provide a framework for making informed design decisions and writing code that is easier to understand, maintain, and extend.
 
 ### Software Programming Paradigms
+
 Software programming paradigms are fundamental approaches to writing code and organizing software systems. Each paradigm represents a distinct way of thinking about and structuring code to solve problems. Different programming paradigms emphasize various concepts and patterns for designing, implementing, and managing software. Here are some of the most prominent programming paradigms:
 
-
 1. **Procedural Programming Paradigm**:
+
    - **Description**: Procedural programming builds on imperative programming by organizing code into reusable procedures or functions, promoting modularity.
    - **Key Concepts/Characteristics**:
      - Procedures/functions: Encapsulate logic in reusable units.
@@ -127,6 +135,7 @@ Software programming paradigms are fundamental approaches to writing code and or
      - Emphasizes "what to do."
 
 2. **Object-Oriented Programming (OOP) Paradigm**:
+
    - **Description**: OOP focuses on modeling real-world entities as objects, encapsulating data and behavior within them.
    - **Key Concepts/Characteristics**:
      - Objects: Instances of classes with attributes and methods.
@@ -135,6 +144,7 @@ Software programming paradigms are fundamental approaches to writing code and or
      - Polymorphism: Objects can take on multiple forms through interfaces and inheritance.
 
 3. **Functional Programming Paradigm**:
+
    - **Description**: Functional programming treats computation as the evaluation of mathematical functions, emphasizing immutability and pure functions.
    - **Key Concepts/Characteristics**:
      - Immutability: Data is not modified; new data is created.
